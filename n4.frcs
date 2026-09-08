@@ -1,0 +1,60 @@
+
+# ./frcsB4 : Sun Jun 28 16:16:24 2026
+# P = 4, P^2 = 16, 2^P = 16
+# frcc = 22, frc = /home/tmp/csCover/n4.frc
+# ficc = 117, fic = /home/tmp/csCover/n4.fic
+
+ 4 AAAA BBBB CCCC DDDD 
+   AC BC BD 
+ 1 AAAA BBBB CCCD CDDD 
+   AC BC BD 
+ 2 AAAA BBBB CCDD CCDD 
+   BC BD ACD 
+ 2 AAAA BBBC BCCC DDDD 
+   AC BC BD 
+ 1 AAAA BBBC BDCC DDDC 
+   BC AD BD 
+ 1 AAAA BBBC BDDC DDCC 
+   BC AD BD 
+ 1 AAAA BBBC DBCC DDDC 
+   B ACD 
+ 1 AAAA BBBC DDBC DDCC 
+   B ACD 
+ 4 AAAA BBCC BBCC DDDD 
+   BC ABD ACD 
+ 1 AAAA BBCC BBDC DDDC 
+   BC AD 
+ 1 AAAA BBCC BCCD BDDD 
+   AC BC BD 
+ 2 AAAA BBCC BDDC BDDC 
+   BC AD 
+ 1 AAAA BBCD BCCD BCDD 
+   AC BC BD 
+ 2 AAAA BCCD BCCD BBDD 
+   AC BC CD ABD 
+ 2 AAAB ABBB CCCD CDDD 
+   AC BC BD 
+ 1 AAAB ABBB CCDD CCDD 
+   BC AD BD 
+ 2 AAAB ABBB CDDD CCCD 
+   BC AD BD 
+ 2 AAAB ACBB CCBD CDDD 
+   AB BC CD 
+ 1 AAAB ACBB CCDB CDDD 
+   BC AD CD 
+ 4 AAAB CABB CCDB CDDD 
+   BC AD 
+ 4 AAAB CCAB CDBB CDDD 
+   BC AD 
+ 8 AABB AABB CCDD CCDD 
+   BC AD 
+
+# scsP = 1, lcsP = 3, totCS = 60
+# size |   0   1   2   3   4
+#  scs |   0   2  20   0   0
+#  lcs |   0   0  17   5   0
+#  tot |   0   2  52   6   0
+
+# total CPU = 0.001s
+# ./frcsB4 : Sun Jun 28 16:16:24 2026
+

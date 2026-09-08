@@ -1,0 +1,28 @@
+
+# ../icovers2 : Sat Sep 20 18:21:33 2025
+
+# sizeof(unsigned long long) = 8
+
+# Generating the fixed polyominoes ...
+# Tile size = 2
+# Tile counts = [ 1 2 ]
+# Count of fixed polyominoes = 2
+# ... CPU time = 0.000s
+
+# Generating the polyomino positions ...
+# Count of polyomino positions = 4
+# ... CPU time = 0.000s
+
+# Eliminating invalid polyomino positions ...
+# Not done, relying on DLX exact cover code to finesse this
+# covp set to copp = 4
+# Count of valid positions = 4
+
+# Generating the fixed covers ...
+ AA BB  
+ AB AB  
+# Count of fixed covers = 2
+# ... CPU time = 0.000s
+
+# ../icovers2 : Sat Sep 20 18:21:33 2025
+

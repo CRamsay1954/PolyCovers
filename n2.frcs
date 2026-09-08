@@ -1,0 +1,18 @@
+
+# ./frcsB2 : Sun Jun 28 16:16:24 2026
+# P = 2, P^2 = 4, 2^P = 4
+# frcc = 1, frc = /home/tmp/csCover/n2.frc
+# ficc = 2, fic = /home/tmp/csCover/n2.fic
+
+ 4 AA BB 
+   A B 
+
+# scsP = 1, lcsP = 1, totCS = 2
+# size |   0   1   2
+#  scs |   0   1   0
+#  lcs |   0   1   0
+#  tot |   0   2   0
+
+# total CPU = 0.000s
+# ./frcsB2 : Sun Jun 28 16:16:24 2026
+
